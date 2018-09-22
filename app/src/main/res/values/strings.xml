@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">NNG-PR01-GREET</string>
+    <string name="mainAct_lbl_Name">Name</string>
+    <string name="mainAct_lbl_Surname">Surname</string>
+    <string name="mainAct_btn_Greet">Greet</string>
+    <string name="mainAct_btn_Reset">Reset</string>
+    <string name="mainAct_cbx_PoliteMode">Polite mode</string>
+    <string name="mainAct_cbx_CasualMode">Casual Mode</string>
+    <string name="PoliteGreet">Welcome, Mr/Mrs </string>
+    <string name="CasualGreet">Hi, </string>
+    <string name="mainAct_lbl_Result">%1$s %2$s </string>
 </resources>
